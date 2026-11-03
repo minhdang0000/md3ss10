@@ -9,5 +9,4 @@ public class Md3ss10Application {
     public static void main(String[] args) {
         SpringApplication.run(Md3ss10Application.class, args);
     }
-//
 }
